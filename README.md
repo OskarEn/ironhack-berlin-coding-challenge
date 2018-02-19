@@ -8,7 +8,7 @@ Welcome to Ironhack Berlin Coding Challenge! This challenge was designed to intr
 
 TODO: write some tutorial to configure everything with VS Code
 
-## 1. HTML and CSS courses on Codecademy
+## 1. HTML and CSS courses on Codecademy
 - [**Learn HTML**](https://www.codecademy.com/learn/learn-html)
   - [Introduction to HTML](https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/exercises/intro)
   - [Common elements](https://www.codecademy.com/courses/learn-html-elements/lessons/common-html-elements)
